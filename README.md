@@ -12,7 +12,7 @@ This will make the application crash, as the child component (`Item`) will re-re
 
 ## Technical details
 
-In order to reproduce this, the store needs to have an initial state, and the action needs to be called after asynchronously (ex. setTimeout, Promise, etc)\
+In order to reproduce this, the store needs to have an initial state, and the action needs to be called asynchronously (ex. setTimeout, Promise, etc).
 
 In this application. The predefined state is located inside `App.tsx` and the async action call is inside `List.tsx`.
 
