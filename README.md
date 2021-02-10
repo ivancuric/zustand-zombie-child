@@ -1,6 +1,6 @@
 # Zustand zombie child example
 
-This project exists to showcase the zombie-child issue when using zustand with predefined data and async actions
+This project exists to showcase the zombie-child issue, when using zustand with predefined data and async actions
 
 
 ## Steps to reproduce
